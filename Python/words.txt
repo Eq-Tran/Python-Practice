@@ -1,0 +1,12 @@
+hello
+goodbye
+apple
+domain
+name
+hacker
+school
+python
+home
+email
+television
+computer
